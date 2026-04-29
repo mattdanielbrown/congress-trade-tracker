@@ -3,6 +3,7 @@ import path from 'path';
 import axios from 'axios';
 import dotenv from 'dotenv';
 import { fileURLToPath } from 'url';
+import { ManualScraper } from './manual_scraper.js';
 
 // Load environment variables from .env
 const __filename = fileURLToPath(import.meta.url);
@@ -33,10 +34,11 @@ if (!fs.existsSync(DATA_DIR)) {
 }
 
 async function ingestMembers(congress = 118) {
+  let members = [];
   console.log(`📡 Fetching members for the ${congress}th Congress...`);
   try {
-    const response = await congressClient.get(`/member/${congress}`);
-    const members = response.data.members || [];
+    const response = await congressClient.get(`/member`); // Fixed endpoint
+    members = response.data.members || [];
     
     console.log(`✅ Successfully fetched ${members.length} members.`);
     
@@ -44,15 +46,28 @@ async function ingestMembers(congress = 118) {
     fs.writeFileSync(outputPath, JSON.stringify(members, null, 2));
     
     console.log(`💾 Saved members to ${outputPath}`);
-    return members;
   } catch (error) {
     console.error('❌ Failed to fetch members from Congress.gov:', error.message);
     if (error.response) {
       console.error('API Response:', error.response.data);
     }
-    // Fallback logic could go here later
-    process.exit(1);
   }
+
+  // Fetch and Filter Trades
+  const ELECTION_DATE = new Date('2023-01-03'); // Start of 118th Congress
+  console.log(`\n🕵️  Fetching trades (fallback to manual scraper)...`);
+  const trades = await ManualScraper.scrapeHouseDisclosures();
+  
+  const filteredTrades = trades.filter(trade => {
+    return new Date(trade.date) >= ELECTION_DATE;
+  });
+
+  console.log(`✅ Filtered trades to current term (>= ${ELECTION_DATE.toISOString().split('T')[0]}): ${filteredTrades.length} trades.`);
+  const tradesOutputPath = path.join(DATA_DIR, `trades_${congress}.json`);
+  fs.writeFileSync(tradesOutputPath, JSON.stringify(filteredTrades, null, 2));
+  console.log(`💾 Saved filtered trades to ${tradesOutputPath}`);
+
+  return members;
 }
 
 // Run the ingestion

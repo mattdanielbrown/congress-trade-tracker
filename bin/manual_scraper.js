@@ -26,24 +26,26 @@ export const ManualScraper = {
     
     // Mock scraped data
     const mockScrapedTrades = [
-      {
-        member: "Nancy Pelosi",
-        chamber: "House",
-        ticker: "NVDA",
-        type: "Buy",
-        amount: "$1,000,001 - $5,000,000",
-        date: "2024-04-20",
-        source: "Manual Scrape - Clerk of the House"
-      },
-      {
-        member: "Ro Khanna",
-        chamber: "House",
-        ticker: "AAPL",
-        type: "Buy",
-        amount: "$50,001 - $100,000",
-        date: "2024-04-12",
-        source: "Manual Scrape - Clerk of the House"
-      }
+      // Cluster 1: PLTR (Defense / Intelligence)
+      { member: "Nancy Pelosi", chamber: "House", ticker: "PLTR", type: "Buy", amount: "$500,001 - $1,000,000", date: "2024-04-18", source: "Manual Scrape - Clerk of the House" },
+      { member: "Mark Green", chamber: "House", ticker: "PLTR", type: "Buy", amount: "$50,001 - $100,000", date: "2024-04-19", source: "Manual Scrape - Clerk of the House" },
+      { member: "Ro Khanna", chamber: "House", ticker: "PLTR", type: "Buy", amount: "$15,001 - $50,000", date: "2024-04-20", source: "Manual Scrape - Clerk of the House" },
+      { member: "Michael McCaul", chamber: "House", ticker: "PLTR", type: "Buy", amount: "$100,001 - $250,000", date: "2024-04-22", source: "Manual Scrape - Clerk of the House" },
+      
+      // Cluster 2: RTX (Symmetric Sell)
+      { member: "Kevin Hern", chamber: "House", ticker: "RTX", type: "Sell", amount: "$15,001 - $50,000", date: "2024-03-10", source: "Manual Scrape - Clerk of the House" },
+      { member: "Lois Frankel", chamber: "House", ticker: "RTX", type: "Sell", amount: "$50,001 - $100,000", date: "2024-03-11", source: "Manual Scrape - Clerk of the House" },
+      { member: "Josh Gottheimer", chamber: "House", ticker: "RTX", type: "Sell", amount: "$1,001 - $15,000", date: "2024-03-12", source: "Manual Scrape - Clerk of the House" },
+
+      // Individual Trades
+      { member: "Nancy Pelosi", chamber: "House", ticker: "NVDA", type: "Buy", amount: "$1,000,001 - $5,000,000", date: "2024-04-20", source: "Manual Scrape - Clerk of the House" },
+      { member: "Ro Khanna", chamber: "House", ticker: "AAPL", type: "Buy", amount: "$50,001 - $100,000", date: "2024-04-12", source: "Manual Scrape - Clerk of the House" },
+      { member: "Tommy Tuberville", chamber: "Senate", ticker: "TSLA", type: "Sell", amount: "$15,001 - $50,000", date: "2024-04-18", source: "Manual Scrape - Senate Portal" },
+      { member: "Mark Alford", chamber: "House", ticker: "AMD", type: "Sell", amount: "$1,001 - $15,000", date: "2024-04-10", source: "Manual Scrape - Clerk of the House" },
+      { member: "Marjorie Taylor Greene", chamber: "House", ticker: "DWAC", type: "Buy", amount: "$15,001 - $50,000", date: "2024-02-20", source: "Manual Scrape - Clerk of the House" },
+      
+      // Older trade to test date filtering
+      { member: "Dan Crenshaw", chamber: "House", ticker: "AMZN", type: "Buy", amount: "$1,001 - $15,000", date: "2022-11-15", source: "Manual Scrape - Clerk of the House" }
     ];
 
     console.log(`✅ Successfully scraped ${mockScrapedTrades.length} trades manually.`);
