@@ -4,10 +4,23 @@ import {
 	getCoreRowModel,
 	getSortedRowModel,
 	getPaginationRowModel,
+	getFilteredRowModel,
 	useReactTable,
 } from '@tanstack/react-table';
 import { Button } from '@/components/ui/button';
 import { ArrowUpDown, ArrowUp, ArrowDown } from 'lucide-react';
+
+const sortAmountRanges = (rowA, rowB, columnId) => {
+	const parseAmount = (val) => {
+		if (!val) return 0;
+		// Extract the first numeric value
+		const match = val.replace(/,/g, '').match(/\d+/);
+		return match ? parseInt(match[0], 10) : 0;
+	};
+	const a = parseAmount(rowA.getValue(columnId));
+	const b = parseAmount(rowB.getValue(columnId));
+	return a < b ? -1 : a > b ? 1 : 0;
+};
 
 const columns = [
 	{
@@ -84,7 +97,7 @@ const columns = [
 			)
 		},
 		cell: ({ row }) => <div className="text-slate-300">{row.getValue('amount') || 'N/A'}</div>,
-		sortingFn: 'alphanumeric',
+		sortingFn: sortAmountRanges,
 	},
 	{
 		accessorKey: 'date',
@@ -106,6 +119,8 @@ const columns = [
 
 export function TradesTable({ data }) {
 	const [sorting, setSorting] = useState([{ id: 'date', desc: true }]);
+	const [globalFilter, setGlobalFilter] = useState('');
+	const [columnFilters, setColumnFilters] = useState([]);
 
 	const table = useReactTable({
 		data,
@@ -113,9 +128,14 @@ export function TradesTable({ data }) {
 		getCoreRowModel: getCoreRowModel(),
 		getPaginationRowModel: getPaginationRowModel(),
 		getSortedRowModel: getSortedRowModel(),
+		getFilteredRowModel: getFilteredRowModel(),
 		onSortingChange: setSorting,
+		onGlobalFilterChange: setGlobalFilter,
+		onColumnFiltersChange: setColumnFilters,
 		state: {
 			sorting,
+			globalFilter,
+			columnFilters,
 		},
 		initialState: {
 			pagination: {
@@ -126,8 +146,28 @@ export function TradesTable({ data }) {
 
 	return (
 		<div className="w-full space-y-4">
-			<div className="bg-slate-900 border border-slate-800 rounded-xl overflow-hidden">
-				<table className="w-full text-left border-collapse">
+			{/* Filters Section */}
+			<div className="flex flex-col sm:flex-row gap-4 justify-between items-center bg-slate-900 border border-slate-800 p-4 rounded-xl">
+				<input
+					type="text"
+					value={globalFilter ?? ''}
+					onChange={e => setGlobalFilter(e.target.value)}
+					placeholder="Search politicians or tickers..."
+					className="w-full sm:w-64 bg-slate-950 border border-slate-800 rounded-md px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-blue-500 transition-colors"
+				/>
+				<select
+					value={table.getColumn('type')?.getFilterValue() ?? ''}
+					onChange={e => table.getColumn('type')?.setFilterValue(e.target.value)}
+					className="w-full sm:w-48 bg-slate-950 border border-slate-800 rounded-md px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-blue-500 transition-colors"
+				>
+					<option value="">All Transaction Types</option>
+					<option value="Buy">Buy</option>
+					<option value="Sell">Sell</option>
+				</select>
+			</div>
+
+			<div className="bg-slate-900 border border-slate-800 rounded-xl overflow-x-auto">
+				<table className="w-full min-w-[600px] text-left border-collapse">
 					<thead>
 						{table.getHeaderGroups().map((headerGroup) => (
 							<tr key={headerGroup.id} className="border-b border-slate-800 bg-slate-800/50">
@@ -163,7 +203,7 @@ export function TradesTable({ data }) {
 						) : (
 							<tr>
 								<td colSpan={columns.length} className="h-24 text-center text-slate-500 py-8">
-									No trades found. Syncing data...
+									No trades found.
 								</td>
 							</tr>
 						)}
@@ -172,7 +212,7 @@ export function TradesTable({ data }) {
 			</div>
 
 			{/* Pagination Controls */}
-			<div className="flex items-center justify-between px-2">
+			<div className="flex flex-col sm:flex-row gap-4 items-center justify-between px-2">
 				<div className="text-sm text-slate-400">
 					Showing <span className="font-medium text-slate-200">{table.getState().pagination.pageIndex * table.getState().pagination.pageSize + 1}</span> to <span className="font-medium text-slate-200">{Math.min((table.getState().pagination.pageIndex + 1) * table.getState().pagination.pageSize, table.getFilteredRowModel().rows.length)}</span> of <span className="font-medium text-slate-200">{table.getFilteredRowModel().rows.length}</span> results
 				</div>
