@@ -1,16 +1,11 @@
-import axios from 'axios';
+// Congress API calls are proxied through a Netlify Function so the API key
+// stays server-side and is never baked into the client bundle.
 
-const CONGRESS_API_KEY = import.meta.env.VITE_CONGRESS_API_KEY;
-const BASE_URL = 'https://api.congress.gov/v3';
-
-export const congressClient = axios.create({
-  baseURL: BASE_URL,
-  params: {
-    api_key: CONGRESS_API_KEY,
-  },
-});
 
 export const fetchMembers = async (congress = 118) => {
-  const response = await congressClient.get(`/member/${congress}`);
-  return response.data;
+	const response = await fetch(`/.netlify/functions/congress-members?congress=${congress}`);
+	if (!response.ok) {
+		throw new Error(`Congress API error: ${response.status}`);
+	}
+	return response.json();
 };

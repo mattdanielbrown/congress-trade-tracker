@@ -2,6 +2,20 @@
   command = "npm run build"
   publish = "dist"
 
+[functions]
+  directory = "netlify/functions"
+
+# Server-side environment variables (no VITE_ prefix — never exposed to the browser):
+#   CONGRESS_API_KEY
+#   ALPHA_VANTAGE_KEY
+#   POLYGON_API_KEY
+#   AINVEST_API_KEY
+#   POLITICIAN_TRADE_TRACKER_API_KEY
+#
+# Set these in the Netlify dashboard under Site configuration → Environment variables.
+# Do NOT use a VITE_ prefix for sensitive keys — Vite bakes VITE_* values into the
+# client bundle, making them publicly visible.
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
