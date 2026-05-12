@@ -3,7 +3,7 @@ import path from 'path';
 import axios from 'axios';
 import dotenv from 'dotenv';
 import { fileURLToPath } from 'url';
-import { ManualScraper } from './manual_scraper.js';
+import { ApiClients } from './api_clients.js';
 
 // Load environment variables from .env
 const __filename = fileURLToPath(import.meta.url);
@@ -59,8 +59,32 @@ async function ingestMembers(congress = 118) {
 	const startYear = 1789 + (congress * 2 - 2);
 	const ELECTION_DATE = new Date(`${startYear}-01-03T00:00:00Z`);
 
-	console.log(`\n🕵️  Fetching trades (fallback to manual scraper)...`);
-	const trades = await ManualScraper.scrapeHouseDisclosures();
+	console.log(`\n🕵️  Fetching trades (via Politician Trade Tracker API)...`);
+	const rawTrades = await ApiClients.fetchLatestTradesFromPoliticianTracker();
+
+	const trades = rawTrades.map(data => {
+		// Clean up ticker, e.g., "AAPL:US" -> "AAPL"
+		let cleanTicker = data.ticker || 'UNKNOWN';
+		if (cleanTicker.includes(':')) {
+			cleanTicker = cleanTicker.split(':')[0];
+		}
+		// Try to fix ETFIVW -> IVW (optional, TickerResolver can do this too, but we can do a simple clean)
+		if (cleanTicker.startsWith('ETF') && cleanTicker.length > 3) {
+			cleanTicker = cleanTicker.replace('ETF', '');
+		} else if (cleanTicker.startsWith('INC') && cleanTicker.length > 3) {
+			cleanTicker = cleanTicker.replace('INC', '');
+		}
+
+		return {
+			member: data.name,
+			chamber: data.chamber,
+			ticker: cleanTicker,
+			type: data.trade_type.toLowerCase() === 'sell' ? 'Sell' : 'Buy',
+			amount: data.trade_amount,
+			date: new Date(data.trade_date).toISOString().split('T')[0],
+			source: "Politician Trade Tracker API"
+		};
+	});
 
 	const filteredTrades = trades.filter(trade => {
 		return new Date(trade.date) >= ELECTION_DATE;
