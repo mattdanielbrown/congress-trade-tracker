@@ -7,6 +7,7 @@
     "amount": "$500,001 - $1,000,000",
     "date": "2024-04-18",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Technology",
     "price_at_trade": 22.5
   },
   {
@@ -17,6 +18,7 @@
     "amount": "$50,001 - $100,000",
     "date": "2024-04-19",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Technology",
     "price_at_trade": 22.5
   },
   {
@@ -27,6 +29,7 @@
     "amount": "$15,001 - $50,000",
     "date": "2024-04-20",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Technology",
     "price_at_trade": 22.5
   },
   {
@@ -37,6 +40,7 @@
     "amount": "$100,001 - $250,000",
     "date": "2024-04-22",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Technology",
     "price_at_trade": 22.5
   },
   {
@@ -47,6 +51,7 @@
     "amount": "$15,001 - $50,000",
     "date": "2024-03-10",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Industrials",
     "price_at_trade": 95.2
   },
   {
@@ -57,6 +62,7 @@
     "amount": "$50,001 - $100,000",
     "date": "2024-03-11",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Industrials",
     "price_at_trade": 95.2
   },
   {
@@ -67,6 +73,7 @@
     "amount": "$1,001 - $15,000",
     "date": "2024-03-12",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Industrials",
     "price_at_trade": 95.2
   },
   {
@@ -77,6 +84,7 @@
     "amount": "$1,000,001 - $5,000,000",
     "date": "2024-04-20",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Technology",
     "price_at_trade": 850.1
   },
   {
@@ -87,6 +95,7 @@
     "amount": "$50,001 - $100,000",
     "date": "2024-04-12",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Technology",
     "price_at_trade": 175.4
   },
   {
@@ -97,6 +106,7 @@
     "amount": "$15,001 - $50,000",
     "date": "2024-04-18",
     "source": "Manual Scrape - Senate Portal",
+    "sector": "Consumer Cyclical",
     "price_at_trade": 160.5
   },
   {
@@ -107,6 +117,7 @@
     "amount": "$1,001 - $15,000",
     "date": "2024-04-10",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Technology",
     "price_at_trade": 155.2
   },
   {
@@ -117,6 +128,7 @@
     "amount": "$15,001 - $50,000",
     "date": "2024-02-20",
     "source": "Manual Scrape - Clerk of the House",
+    "sector": "Communication Services",
     "price_at_trade": 45
   }
 ]

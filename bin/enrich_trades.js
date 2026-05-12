@@ -3,6 +3,7 @@ import path from 'path';
 import axios from 'axios';
 import dotenv from 'dotenv';
 import { fileURLToPath } from 'url';
+import { TickerResolver } from '../src/api/tickerResolver.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -16,24 +17,15 @@ if (!POLYGON_API_KEY) {
   process.exit(1);
 }
 
-// Polygon free tier allows 5 API calls per minute
-const REQUEST_DELAY_MS = 12500; // 12.5 seconds to be safe (60000/5 = 12000)
-
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 async function fetchPriceWithRetry(ticker, date, retries = 3) {
+  if (!ticker || ticker === 'UNKNOWN') return 'N/A';
   const url = `https://api.polygon.io/v1/open-close/${ticker}/${date}?adjusted=true&apiKey=${POLYGON_API_KEY}`;
   
-  // Deterministic mock prices for fallback
   const mockPrices = {
-    'PLTR': 22.50,
-    'RTX': 95.20,
-    'NVDA': 850.10,
-    'AAPL': 175.40,
-    'TSLA': 160.50,
-    'AMD': 155.20,
-    'DWAC': 45.00,
-    'AMZN': 130.00
+    'PLTR': 22.50, 'RTX': 95.20, 'NVDA': 850.10, 'AAPL': 175.40,
+    'TSLA': 160.50, 'AMD': 155.20, 'DWAC': 45.00, 'AMZN': 130.00
   };
 
   for (let i = 0; i < retries; i++) {
@@ -66,25 +58,33 @@ async function enrichTrades() {
   }
 
   const trades = JSON.parse(fs.readFileSync(tradesFile, 'utf-8'));
-  console.log(`📡 Enriching ${trades.length} trades with Polygon pricing data...`);
+  console.log(`📡 Enriching ${trades.length} trades with Polygon and Alpha Vantage data...`);
 
   const enrichedTrades = [];
   
   for (const trade of trades) {
-    if (trade.ticker) {
-      // Free tier restricts date range to older dates typically, or we might need to adjust date if weekend.
-      // For this script, we'll fetch exactly what's listed or fall back.
-      const price = await fetchPriceWithRetry(trade.ticker, trade.date);
-      enrichedTrades.push({
-        ...trade,
-        price_at_trade: price || 'N/A' // Store 'N/A' if missing
-      });
+    const rawTicker = trade.ticker || 'UNKNOWN';
+    const cleanTicker = TickerResolver.resolveTicker(rawTicker);
+    
+    let price = 'N/A';
+    let sector = 'Other';
+
+    if (cleanTicker !== 'UNKNOWN') {
+      // Respect Alpha Vantage & Polygon rate limits.
+      // AV: 5/min, Polygon: 5/min. We can wait 12s per loop to be perfectly safe,
+      // but we have mock fallbacks so we can be a bit more aggressive.
+      sector = await TickerResolver.getSectorWithRetry(cleanTicker);
+      price = await fetchPriceWithRetry(cleanTicker, trade.date);
       
-      // Shortened delay for mock simulation
-      await sleep(500);
-    } else {
-      enrichedTrades.push({ ...trade, price_at_trade: 'N/A' });
+      await sleep(12500); // 12.5 seconds to respect 5 calls/min limit for both APIs
     }
+
+    enrichedTrades.push({
+      ...trade,
+      ticker: cleanTicker,
+      sector: sector,
+      price_at_trade: price
+    });
   }
 
   const outputFile = path.join(DATA_DIR, 'enriched_trades.json');

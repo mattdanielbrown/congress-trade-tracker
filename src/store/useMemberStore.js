@@ -14,8 +14,8 @@ const useMemberStore = create((set, get) => ({
 
   // Setters
   setMembers: (members) => set({ members }),
-  setTrades: (trades) => {
-    const signals = detectClusters(trades);
+  setTrades: async (trades) => {
+    const signals = await detectClusters(trades);
     set({ trades, signals });
   },
   setSignals: (signals) => set({ signals }),

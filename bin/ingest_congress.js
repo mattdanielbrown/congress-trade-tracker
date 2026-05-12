@@ -54,7 +54,11 @@ async function ingestMembers(congress = 118) {
   }
 
   // Fetch and Filter Trades
-  const ELECTION_DATE = new Date('2023-01-03'); // Start of 118th Congress
+  // Calculate start year of the given Congress (Jan 3rd of that year)
+  // Formula: 1789 + (congress * 2 - 2). Valid for Congress >= 73 (1933 onwards)
+  const startYear = 1789 + (congress * 2 - 2);
+  const ELECTION_DATE = new Date(`${startYear}-01-03T00:00:00Z`);
+  
   console.log(`\n🕵️  Fetching trades (fallback to manual scraper)...`);
   const trades = await ManualScraper.scrapeHouseDisclosures();
   
@@ -62,7 +66,7 @@ async function ingestMembers(congress = 118) {
     return new Date(trade.date) >= ELECTION_DATE;
   });
 
-  console.log(`✅ Filtered trades to current term (>= ${ELECTION_DATE.toISOString().split('T')[0]}): ${filteredTrades.length} trades.`);
+  console.log(`✅ Filtered trades to current term (>= ${startYear}-01-03): ${filteredTrades.length} trades.`);
   const tradesOutputPath = path.join(DATA_DIR, `trades_${congress}.json`);
   fs.writeFileSync(tradesOutputPath, JSON.stringify(filteredTrades, null, 2));
   console.log(`💾 Saved filtered trades to ${tradesOutputPath}`);
