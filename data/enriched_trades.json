@@ -1,5 +1,126 @@
 [
   {
+    "member": "Rich McCormick",
+    "chamber": "House",
+    "ticker": "AMT",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-17",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 182.36
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 100
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "IEI",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 118.44
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "HYBB",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 46.9
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "SPDW",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 48.19
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "UNKNOWN",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": "N/A"
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "SPYG",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 111.82
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "SPYV",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 58.98
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "SPY",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 711.69
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "XLE",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 57.71
+  },
+  {
+    "member": "Chuck Fleischmann",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 100
+  },
+  {
     "member": "Chip Roy",
     "chamber": "House",
     "ticker": "AESI",
@@ -933,126 +1054,5 @@
     "source": "Politician Trade Tracker API",
     "sector": "Other",
     "price_at_trade": "N/A"
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "UNKNOWN",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-06",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": "N/A"
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "WWD",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-22",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 366.48
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "WWD",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-02",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 371.78
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "WWD",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 399.23
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "UNKNOWN",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-08",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": "N/A"
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "UNKNOWN",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-23",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": "N/A"
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "NVAER",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-10",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "FICO",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-22",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 970.17
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "VMC",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-29",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 296.08
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "V",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-27",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 309.65
-  },
-  {
-    "member": "Michael McCaul",
-    "chamber": "House",
-    "ticker": "NVAER",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
   }
 ]
