@@ -1,5 +1,26 @@
 [
   {
+    "bioguideId": "V000139",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/6931b7d5f478c0f1228e9abe_200.jpg"
+    },
+    "district": 7,
+    "name": "Van Epps, Matt",
+    "partyName": "Republican",
+    "state": "Tennessee",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-05-14T15:42:06Z",
+    "url": "https://api.congress.gov/v3/member/V000139?format=json"
+  },
+  {
     "bioguideId": "P000599",
     "depiction": {
       "attribution": "Image courtesy of the Member",
@@ -409,26 +430,5 @@
     },
     "updateDate": "2026-04-09T20:03:04Z",
     "url": "https://api.congress.gov/v3/member/M001237?format=json"
-  },
-  {
-    "bioguideId": "C001121",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/69d7f4167304cef7a0c9779f_200.jpg"
-    },
-    "district": 6,
-    "name": "Crow, Jason",
-    "partyName": "Democratic",
-    "state": "Colorado",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2019
-        }
-      ]
-    },
-    "updateDate": "2026-04-09T20:02:15Z",
-    "url": "https://api.congress.gov/v3/member/C001121?format=json"
   }
 ]
