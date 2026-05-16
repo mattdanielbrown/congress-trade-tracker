@@ -1,5 +1,27 @@
 [
   {
+    "member": "Laura Friedman",
+    "chamber": "House",
+    "ticker": "HOLX",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-08",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 100
+  },
+  {
+    "member": "Laura Friedman",
+    "chamber": "House",
+    "ticker": "HOLX",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-08",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 100
+  },
+  {
     "member": "John McGuire",
     "chamber": "House",
     "ticker": "AAPL",
@@ -24,13 +46,13 @@
   {
     "member": "John McGuire",
     "chamber": "House",
-    "ticker": "NVDA",
+    "ticker": "DA",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-15",
     "source": "Politician Trade Tracker API",
-    "sector": "Technology",
-    "price_at_trade": 198.87
+    "sector": "Other",
+    "price_at_trade": 100
   },
   {
     "member": "Byron Donalds",
@@ -200,13 +222,13 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "A",
+    "ticker": "LGF.A",
     "type": "Sell",
     "amount": "1K-15K",
     "date": "2026-04-22",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
-    "price_at_trade": 120.47
+    "price_at_trade": 100
   },
   {
     "member": "Ro Khanna",
@@ -222,13 +244,13 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "B",
+    "ticker": "BRK.B",
     "type": "Buy",
     "amount": "15K-50K",
     "date": "2026-04-13",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
-    "price_at_trade": 43.02
+    "price_at_trade": 480.19
   },
   {
     "member": "Ro Khanna",
@@ -277,13 +299,13 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "SYK",
+    "ticker": "YK",
     "type": "Buy",
     "amount": "15K-50K",
     "date": "2026-04-13",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
-    "price_at_trade": 347.24
+    "price_at_trade": 100
   },
   {
     "member": "Ro Khanna",
@@ -431,13 +453,13 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "UNKNOWN",
+    "ticker": "ACN",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
-    "price_at_trade": "N/A"
+    "price_at_trade": 191.95
   },
   {
     "member": "Ro Khanna",
@@ -475,13 +497,13 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "SCHW",
+    "ticker": "CHW",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
-    "price_at_trade": 96.79
+    "price_at_trade": 7.9
   },
   {
     "member": "Ro Khanna",
@@ -541,13 +563,13 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "SNPS",
+    "ticker": "NPS",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
-    "price_at_trade": 417.77
+    "price_at_trade": 100
   },
   {
     "member": "Ro Khanna",
@@ -607,13 +629,13 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "UNKNOWN",
+    "ticker": "STX",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
-    "price_at_trade": "N/A"
+    "price_at_trade": 513.28
   },
   {
     "member": "Ro Khanna",
@@ -805,13 +827,13 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "UNKNOWN",
+    "ticker": "BALL",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
-    "price_at_trade": "N/A"
+    "price_at_trade": 63.6
   },
   {
     "member": "Ro Khanna",
@@ -1032,27 +1054,5 @@
     "source": "Politician Trade Tracker API",
     "sector": "Other",
     "price_at_trade": 86.64
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "UNKNOWN",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": "N/A"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "URI",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 779.53
   }
 ]

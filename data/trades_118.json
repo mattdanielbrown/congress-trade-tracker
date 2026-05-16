@@ -1,5 +1,23 @@
 [
   {
+    "member": "Laura Friedman",
+    "chamber": "House",
+    "ticker": "HOLX",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-08",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Laura Friedman",
+    "chamber": "House",
+    "ticker": "HOLX",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-08",
+    "source": "Politician Trade Tracker API"
+  },
+  {
     "member": "John McGuire",
     "chamber": "House",
     "ticker": "AAPL",
@@ -20,7 +38,7 @@
   {
     "member": "John McGuire",
     "chamber": "House",
-    "ticker": "NVDA",
+    "ticker": "DA",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-15",
@@ -164,7 +182,7 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "A",
+    "ticker": "LGF.A",
     "type": "Sell",
     "amount": "1K-15K",
     "date": "2026-04-22",
@@ -182,7 +200,7 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "B",
+    "ticker": "BRK.B",
     "type": "Buy",
     "amount": "15K-50K",
     "date": "2026-04-13",
@@ -227,7 +245,7 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "SYK",
+    "ticker": "YK",
     "type": "Buy",
     "amount": "15K-50K",
     "date": "2026-04-13",
@@ -353,7 +371,7 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "PLCACN",
+    "ticker": "ACN",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
@@ -389,7 +407,7 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "SCHW",
+    "ticker": "CHW",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
@@ -443,7 +461,7 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "SNPS",
+    "ticker": "NPS",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
@@ -497,7 +515,7 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "PLCSTX",
+    "ticker": "STX",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
@@ -659,7 +677,7 @@
   {
     "member": "Ro Khanna",
     "chamber": "House",
-    "ticker": "CORPORATIONBALL",
+    "ticker": "BALL",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
@@ -840,24 +858,6 @@
     "member": "Ro Khanna",
     "chamber": "House",
     "ticker": "WFC",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "CORPAPP",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "URI",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
