@@ -1,5 +1,32 @@
 [
   {
+    "member": "John Fetterman",
+    "chamber": "Senate",
+    "ticker": "FCBN",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2025-04-24",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "John Fetterman",
+    "chamber": "Senate",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2025-04-24",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "John Fetterman",
+    "chamber": "Senate",
+    "ticker": "JPM",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2025-06-17",
+    "source": "Politician Trade Tracker API"
+  },
+  {
     "member": "Laura Friedman",
     "chamber": "House",
     "ticker": "HOLX",
@@ -831,33 +858,6 @@
     "member": "Ro Khanna",
     "chamber": "House",
     "ticker": "ICE",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "YUM",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "RMD",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "WFC",
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-13",
