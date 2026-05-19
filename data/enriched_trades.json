@@ -1,5 +1,82 @@
 [
   {
+    "member": "Val Hoyle",
+    "chamber": "House",
+    "ticker": "LA",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2025-04-02",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 100
+  },
+  {
+    "member": "Dwight Evans",
+    "chamber": "House",
+    "ticker": "AMT",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-11",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 177.47
+  },
+  {
+    "member": "Dwight Evans",
+    "chamber": "House",
+    "ticker": "CVS",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2025-11-21",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 78.03
+  },
+  {
+    "member": "Dwight Evans",
+    "chamber": "House",
+    "ticker": "INTC",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-07",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 109.62
+  },
+  {
+    "member": "Dwight Evans",
+    "chamber": "House",
+    "ticker": "PWR",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-07",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 750.73
+  },
+  {
+    "member": "Dwight Evans",
+    "chamber": "House",
+    "ticker": "TMO",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-07",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 474.46
+  },
+  {
+    "member": "Steve Cohen",
+    "chamber": "House",
+    "ticker": "SFGYY",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2025-12-26",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 5.18
+  },
+  {
     "member": "John Fetterman",
     "chamber": "Senate",
     "ticker": "FCBN",
@@ -977,82 +1054,5 @@
     "source": "Politician Trade Tracker API",
     "sector": "Other",
     "price_at_trade": 76.83
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "LEN",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 89.79
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "XYL",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 128.85
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "GEHC",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 73.83
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "UNP",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 251.34
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "CRM",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 172.82
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "VRSK",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 167.87
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "ICE",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 164.31
   }
 ]
