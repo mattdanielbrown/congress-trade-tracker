@@ -1,5 +1,545 @@
 [
   {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-02",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "500K-1M",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-04-21",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-04-28",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-04-09",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "250K-500K",
+    "date": "2026-04-09",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-04-09",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-04-14",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-04-09",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "500K-1M",
+    "date": "2026-04-24",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-24",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "500K-1M",
+    "date": "2026-04-09",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "500K-1M",
+    "date": "2026-04-06",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "100K-250K",
+    "date": "2026-04-02",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-04-21",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-24",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "500K-1M",
+    "date": "2026-04-21",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "250K-500K",
+    "date": "2026-04-22",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "250K-500K",
+    "date": "2026-04-21",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-22",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "250K-500K",
+    "date": "2026-04-13",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "250K-500K",
+    "date": "2026-04-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "100K-250K",
+    "date": "2026-04-02",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "250K-500K",
+    "date": "2026-04-02",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-24",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-22",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-04-16",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "100K-250K",
+    "date": "2026-04-17",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-30",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "250K-500K",
+    "date": "2026-04-13",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-22",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-04-23",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-24",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-16",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-02",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "100K-250K",
+    "date": "2026-04-06",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-09",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-10",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-13",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Scott Peters",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-04-24",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Bill Keating",
+    "chamber": "House",
+    "ticker": "JPM",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-08",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Bill Keating",
+    "chamber": "House",
+    "ticker": "NOC",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-08",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Bill Keating",
+    "chamber": "House",
+    "ticker": "OTIS",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-29",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Bill Keating",
+    "chamber": "House",
+    "ticker": "PG",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-08",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Bill Keating",
+    "chamber": "House",
+    "ticker": "TMUS",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-17",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Bill Keating",
+    "chamber": "House",
+    "ticker": "CPB",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-05-06",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Bill Keating",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-30",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Bill Keating",
+    "chamber": "House",
+    "ticker": "VMW",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-08",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "CODI",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "ENB",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "ET",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "LLCFTAI",
+    "type": "Sell",
+    "amount": "50K-100K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "FIP",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "HII",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "IAG",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "RRC",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "OUHY",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "WPM",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Brian Babin",
+    "chamber": "House",
+    "ticker": "WDS",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
     "member": "Val Hoyle",
     "chamber": "House",
     "ticker": "LA",
@@ -320,546 +860,6 @@
     "ticker": "JNJ",
     "type": "Buy",
     "amount": "15K-50K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "TMO",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "YK",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "ADP",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "COF",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "MA",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "INTU",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "IBM",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "HON",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "VRTX",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "PANW",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "ARES",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "NOW",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "TJX",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "NEE",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "KKR",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "ACN",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "PFE",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "FLT",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "NDAQ",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "CHW",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "IDXX",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "EMR",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "CPRT",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "ADBE",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "CDNS",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "NPS",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "CMG",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "ECL",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "PAYX",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "MRSH",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "BK",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "STX",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "REGN",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "CVNA",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "ADI",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "WDC",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "ADSK",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "FDS",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "PNC",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "BR",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "DIS",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "APD",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "WDAY",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "PGR",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "RJF",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "IBKR",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "VMC",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "GWW",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "DXCM",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "BALL",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "HOOD",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "USB",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "ORLY",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "CVS",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "MSCI",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "DELL",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "F",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "HBAN",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "AMT",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Ro Khanna",
-    "chamber": "House",
-    "ticker": "GM",
-    "type": "Buy",
-    "amount": "1K-15K",
     "date": "2026-04-13",
     "source": "Politician Trade Tracker API"
   }
