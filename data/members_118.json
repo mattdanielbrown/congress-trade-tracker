@@ -1,5 +1,27 @@
 [
   {
+    "bioguideId": "F000339",
+    "depiction": {
+      "attribution": "Collection of the U.S. House of Representatives <a href=\"http://history.house.gov/Collection/Detail/15032396996?ret=True\">About this object</a>",
+      "imageUrl": "https://www.congress.gov/img/member/f000339_200.jpg"
+    },
+    "district": 4,
+    "name": "Frank, Barney",
+    "partyName": "Democratic",
+    "state": "Massachusetts",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 2013,
+          "startYear": 1981
+        }
+      ]
+    },
+    "updateDate": "2026-05-20T14:57:26Z",
+    "url": "https://api.congress.gov/v3/member/F000339?format=json"
+  },
+  {
     "bioguideId": "V000139",
     "depiction": {
       "attribution": "Image courtesy of the Member",
@@ -409,26 +431,5 @@
     },
     "updateDate": "2026-04-09T20:03:37Z",
     "url": "https://api.congress.gov/v3/member/C001091?format=json"
-  },
-  {
-    "bioguideId": "M001237",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/69d7f4ee7304cef7a0c977a8_200.jpg"
-    },
-    "district": 8,
-    "name": "McDonald Rivet, Kristen",
-    "partyName": "Democratic",
-    "state": "Michigan",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-04-09T20:03:04Z",
-    "url": "https://api.congress.gov/v3/member/M001237?format=json"
   }
 ]
