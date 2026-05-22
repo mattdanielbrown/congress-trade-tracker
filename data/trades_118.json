@@ -1,5 +1,41 @@
 [
   {
+    "member": "Mike Kelly",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-04-08",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Dan Meuser",
+    "chamber": "House",
+    "ticker": "DA",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-24",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Sara Jacobs",
+    "chamber": "House",
+    "ticker": "QCOM",
+    "type": "Sell",
+    "amount": "500K-1M",
+    "date": "2026-05-06",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Sara Jacobs",
+    "chamber": "House",
+    "ticker": "QCOM",
+    "type": "Sell",
+    "amount": "500K-1M",
+    "date": "2026-05-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
     "member": "Richard Blumenthal",
     "chamber": "Senate",
     "ticker": "N/A",
@@ -825,42 +861,6 @@
     "type": "Buy",
     "amount": "50K-100K",
     "date": "2026-04-16",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "100K-250K",
-    "date": "2026-04-17",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "50K-100K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "250K-500K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "50K-100K",
-    "date": "2026-04-22",
     "source": "Politician Trade Tracker API"
   }
 ]
