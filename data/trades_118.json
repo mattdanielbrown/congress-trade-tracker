@@ -1,5 +1,14 @@
 [
   {
+    "member": "Kelly Morrison",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-05-04",
+    "source": "Politician Trade Tracker API"
+  },
+  {
     "member": "Mike Kelly",
     "chamber": "House",
     "ticker": "N/A",
@@ -852,15 +861,6 @@
     "type": "Sell",
     "amount": "50K-100K",
     "date": "2026-04-22",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "50K-100K",
-    "date": "2026-04-16",
     "source": "Politician Trade Tracker API"
   }
 ]
