@@ -1,5 +1,50 @@
 [
   {
+    "member": "Thomas Kean Jr",
+    "chamber": "House",
+    "ticker": "ADI",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-29",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Thomas Kean Jr",
+    "chamber": "House",
+    "ticker": "FCNCA",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-14",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Thomas Kean Jr",
+    "chamber": "House",
+    "ticker": "NVT",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-15",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Thomas Kean Jr",
+    "chamber": "House",
+    "ticker": "TTWO",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-04-21",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Thomas Kean Jr",
+    "chamber": "House",
+    "ticker": "TXN",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-04-14",
+    "source": "Politician Trade Tracker API"
+  },
+  {
     "member": "Bernie Moreno",
     "chamber": "Senate",
     "ticker": "ETOR",
@@ -816,51 +861,6 @@
     "type": "Sell",
     "amount": "50K-100K",
     "date": "2026-04-22",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "250K-500K",
-    "date": "2026-04-13",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "250K-500K",
-    "date": "2026-04-07",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "100K-250K",
-    "date": "2026-04-02",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "250K-500K",
-    "date": "2026-04-02",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "50K-100K",
-    "date": "2026-04-24",
     "source": "Politician Trade Tracker API"
   }
 ]
