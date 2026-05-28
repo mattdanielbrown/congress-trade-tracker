@@ -1,5 +1,27 @@
 [
   {
+    "member": "Suzan DelBene",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "250K-500K",
+    "date": "2026-05-04",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 100
+  },
+  {
+    "member": "Suzan DelBene",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "50K-100K",
+    "date": "2026-05-04",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 100
+  },
+  {
     "member": "Thomas Kean Jr",
     "chamber": "House",
     "ticker": "ADI",
@@ -1029,28 +1051,6 @@
     "type": "Sell",
     "amount": "50K-100K",
     "date": "2026-04-24",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "500K-1M",
-    "date": "2026-04-21",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Scott Peters",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "250K-500K",
-    "date": "2026-04-22",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
     "price_at_trade": 100
