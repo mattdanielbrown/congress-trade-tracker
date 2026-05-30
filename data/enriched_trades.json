@@ -1,5 +1,137 @@
 [
   {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "GOOGL",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Communication Services",
+    "price_at_trade": 396.78
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "GOOGL",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Communication Services",
+    "price_at_trade": 396.78
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "AAPL",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Technology",
+    "price_at_trade": 300.23
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "AAPL",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Technology",
+    "price_at_trade": 300.23
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "T",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 24.03
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "T",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 24.03
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "HD",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 297.51
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "HD",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 297.51
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "MEDP",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 415.27
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "MEDP",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 415.27
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "PH",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 862.72
+  },
+  {
+    "member": "David Taylor",
+    "chamber": "House",
+    "ticker": "PH",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 862.72
+  },
+  {
     "member": "Dave McCormick",
     "chamber": "Senate",
     "ticker": "N/A",
@@ -922,137 +1054,5 @@
     "source": "Politician Trade Tracker API",
     "sector": "Other",
     "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-08",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-21",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-27",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-15",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "100K-250K",
-    "date": "2026-04-08",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-15",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-21",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "50K-100K",
-    "date": "2026-04-27",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Tim Moore",
-    "chamber": "House",
-    "ticker": "T",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-05-18",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 24.43
-  },
-  {
-    "member": "Tim Moore",
-    "chamber": "House",
-    "ticker": "IHG",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-05-07",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 146.95
-  },
-  {
-    "member": "Tim Moore",
-    "chamber": "House",
-    "ticker": "RYCEY",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-05-07",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 16.925
-  },
-  {
-    "member": "Josh Gottheimer",
-    "chamber": "House",
-    "ticker": "MMM",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-28",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 146.03
   }
 ]
