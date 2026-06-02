@@ -1,5 +1,27 @@
 [
   {
+    "bioguideId": "S001161",
+    "depiction": {
+      "attribution": "Image, Congressional Pictorial Directory, 109th.",
+      "imageUrl": "https://www.congress.gov/img/member/s001161_200.jpg"
+    },
+    "district": 7,
+    "name": "Schwarz, John J.H. \"Joe\"",
+    "partyName": "Republican",
+    "state": "Michigan",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 2007,
+          "startYear": 2005
+        }
+      ]
+    },
+    "updateDate": "2026-06-01T16:57:48Z",
+    "url": "https://api.congress.gov/v3/member/S001161?format=json"
+  },
+  {
     "bioguideId": "F000483",
     "depiction": {
       "attribution": "Image courtesy of the Member",
@@ -409,27 +431,5 @@
     },
     "updateDate": "2026-04-15T11:45:35Z",
     "url": "https://api.congress.gov/v3/member/S001193?format=json"
-  },
-  {
-    "bioguideId": "E000179",
-    "depiction": {
-      "attribution": "Collection of the U.S. House of Representatives",
-      "imageUrl": "https://www.congress.gov/img/member/e000179_200.jpg"
-    },
-    "district": 16,
-    "name": "Engel, Eliot L.",
-    "partyName": "Democratic",
-    "state": "New York",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "endYear": 2021,
-          "startYear": 1989
-        }
-      ]
-    },
-    "updateDate": "2026-04-13T12:32:50Z",
-    "url": "https://api.congress.gov/v3/member/E000179?format=json"
   }
 ]

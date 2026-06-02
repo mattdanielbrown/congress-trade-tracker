@@ -1,5 +1,38 @@
 [
   {
+    "member": "Max Miller",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 100
+  },
+  {
+    "member": "Max Miller",
+    "chamber": "House",
+    "ticker": "N/A",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-11",
+    "source": "Politician Trade Tracker API",
+    "sector": "Other",
+    "price_at_trade": 100
+  },
+  {
+    "member": "Ed Case",
+    "chamber": "House",
+    "ticker": "AAPL",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-14",
+    "source": "Politician Trade Tracker API",
+    "sector": "Technology",
+    "price_at_trade": 298.21
+  },
+  {
     "member": "David Taylor",
     "chamber": "House",
     "ticker": "GOOGL",
@@ -1018,39 +1051,6 @@
     "type": "Buy",
     "amount": "1K-15K",
     "date": "2026-04-15",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-10",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-15",
-    "source": "Politician Trade Tracker API",
-    "sector": "Other",
-    "price_at_trade": 100
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "250K-500K",
-    "date": "2026-04-20",
     "source": "Politician Trade Tracker API",
     "sector": "Other",
     "price_at_trade": 100
