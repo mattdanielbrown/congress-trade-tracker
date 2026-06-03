@@ -1,5 +1,104 @@
 [
   {
+    "member": "Sheldon Whitehouse",
+    "chamber": "Senate",
+    "ticker": "ORCL",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-05-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Sheldon Whitehouse",
+    "chamber": "Senate",
+    "ticker": "DA",
+    "type": "Sell",
+    "amount": "100K-250K",
+    "date": "2026-05-08",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Sheldon Whitehouse",
+    "chamber": "Senate",
+    "ticker": "DA",
+    "type": "Sell",
+    "amount": "100K-250K",
+    "date": "2026-05-08",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Daniel Webster",
+    "chamber": "House",
+    "ticker": "REXR",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2025-02-26",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Christian Menefee",
+    "chamber": "House",
+    "ticker": "BRK.B",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-02-10",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Christian Menefee",
+    "chamber": "House",
+    "ticker": "BRK.B",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-02-10",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Christian Menefee",
+    "chamber": "House",
+    "ticker": "BRK.B",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-02-10",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Christian Menefee",
+    "chamber": "House",
+    "ticker": "PINS",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-05-28",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Christian Menefee",
+    "chamber": "House",
+    "ticker": "PINS",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-06-11",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Christian Menefee",
+    "chamber": "House",
+    "ticker": "PINS",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-02-17",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Christian Menefee",
+    "chamber": "House",
+    "ticker": "PINS",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-02-23",
+    "source": "Politician Trade Tracker API"
+  },
+  {
     "member": "Max Miller",
     "chamber": "House",
     "ticker": "N/A",
@@ -761,105 +860,6 @@
     "ticker": "N/A",
     "type": "Buy",
     "amount": "15K-50K",
-    "date": "2026-04-15",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "15K-50K",
-    "date": "2026-04-17",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-07",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "50K-100K",
-    "date": "2026-04-08",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-10",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "100K-250K",
-    "date": "2026-04-15",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "15K-50K",
-    "date": "2026-04-17",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-21",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "250K-500K",
-    "date": "2026-04-24",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-27",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-10",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
     "date": "2026-04-15",
     "source": "Politician Trade Tracker API"
   }
