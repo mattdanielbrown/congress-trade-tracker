@@ -1,5 +1,338 @@
 [
   {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "AMZN",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "AAPL",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "BAC",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "BA",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "CAT",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "CVX",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "ETN",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "XOM",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "FUNDFSSL",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "FUNDFSSL",
+    "type": "Sell",
+    "amount": "15K-50K",
+    "date": "2026-06-01",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "J",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "LHX",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "LMT",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "UAA",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "UAA",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-02-10",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Tim Walberg",
+    "chamber": "House",
+    "ticker": "WFC",
+    "type": "Buy",
+    "amount": "15K-50K",
+    "date": "2025-02-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "ABT",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-27",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "ABBV",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "AMD",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "ADI",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-19",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "BRK.B",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-04",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "BRK.B",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-04",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "FABRINETFN",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-01",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "INTU",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-22",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "LITE",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-22",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "MU",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-21",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "MSFT",
+    "type": "Sell",
+    "amount": "250K-500K",
+    "date": "2026-05-19",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "MSFT",
+    "type": "Sell",
+    "amount": "500K-1M",
+    "date": "2026-05-19",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "MSFT",
+    "type": "Buy",
+    "amount": "250K-500K",
+    "date": "2026-05-19",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "MSFT",
+    "type": "Buy",
+    "amount": "500K-1M",
+    "date": "2026-05-19",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "NSRGY",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-14",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "NSRGY",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-05",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "PANW",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-14",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "SNDK",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-07",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "TPH",
+    "type": "Sell",
+    "amount": "1K-15K",
+    "date": "2026-05-15",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Josh Gottheimer",
+    "chamber": "House",
+    "ticker": "TWLO",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-04",
+    "source": "Politician Trade Tracker API"
+  },
+  {
+    "member": "Cleo Fields",
+    "chamber": "House",
+    "ticker": "AAPL",
+    "type": "Buy",
+    "amount": "1K-15K",
+    "date": "2026-05-14",
+    "source": "Politician Trade Tracker API"
+  },
+  {
     "member": "Kevin Hern",
     "chamber": "House",
     "ticker": "CTRA",
@@ -528,339 +861,6 @@
     "type": "Sell",
     "amount": "100K-250K",
     "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "100K-250K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "100K-250K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "100K-250K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "50K-100K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "15K-50K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "100K-250K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "100K-250K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "250K-500K",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "500K-1M",
-    "date": "2026-04-30",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dave McCormick",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "100K-250K",
-    "date": "2026-04-28",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Jonathan Jackson",
-    "chamber": "House",
-    "ticker": "ORLY",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-24",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Jonathan Jackson",
-    "chamber": "House",
-    "ticker": "PG",
-    "type": "Buy",
-    "amount": "15K-50K",
-    "date": "2026-04-20",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Jonathan Jackson",
-    "chamber": "House",
-    "ticker": "THC",
-    "type": "Sell",
-    "amount": "15K-50K",
-    "date": "2026-04-20",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Jonathan Jackson",
-    "chamber": "House",
-    "ticker": "THC",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-15",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Jonathan Jackson",
-    "chamber": "House",
-    "ticker": "V",
-    "type": "Sell",
-    "amount": "50K-100K",
-    "date": "2026-04-24",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Suzan DelBene",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "250K-500K",
-    "date": "2026-05-04",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Suzan DelBene",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "50K-100K",
-    "date": "2026-05-04",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Thomas Kean Jr",
-    "chamber": "House",
-    "ticker": "ADI",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-29",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Thomas Kean Jr",
-    "chamber": "House",
-    "ticker": "FCNCA",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-14",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Thomas Kean Jr",
-    "chamber": "House",
-    "ticker": "NVT",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-15",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Thomas Kean Jr",
-    "chamber": "House",
-    "ticker": "TTWO",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-21",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Thomas Kean Jr",
-    "chamber": "House",
-    "ticker": "TXN",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-14",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Jake Auchincloss",
-    "chamber": "House",
-    "ticker": "TT",
-    "type": "Sell",
-    "amount": "15K-50K",
-    "date": "2026-05-18",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Jake Auchincloss",
-    "chamber": "House",
-    "ticker": "TT",
-    "type": "Sell",
-    "amount": "15K-50K",
-    "date": "2026-05-18",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Bernie Moreno",
-    "chamber": "Senate",
-    "ticker": "ETOR",
-    "type": "Sell",
-    "amount": "100K-250K",
-    "date": "2026-05-06",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Kelly Morrison",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "15K-50K",
-    "date": "2026-05-04",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Mike Kelly",
-    "chamber": "House",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "50K-100K",
-    "date": "2026-04-08",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Dan Meuser",
-    "chamber": "House",
-    "ticker": "DA",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-24",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Sara Jacobs",
-    "chamber": "House",
-    "ticker": "QCOM",
-    "type": "Sell",
-    "amount": "500K-1M",
-    "date": "2026-05-06",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Sara Jacobs",
-    "chamber": "House",
-    "ticker": "QCOM",
-    "type": "Sell",
-    "amount": "500K-1M",
-    "date": "2026-05-07",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-08",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-15",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Buy",
-    "amount": "1K-15K",
-    "date": "2026-04-15",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-17",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "15K-50K",
-    "date": "2026-04-20",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-08",
-    "source": "Politician Trade Tracker API"
-  },
-  {
-    "member": "Richard Blumenthal",
-    "chamber": "Senate",
-    "ticker": "N/A",
-    "type": "Sell",
-    "amount": "1K-15K",
-    "date": "2026-04-15",
     "source": "Politician Trade Tracker API"
   }
 ]
