@@ -1,5 +1,25 @@
 [
   {
+    "bioguideId": "G000607",
+    "depiction": {
+      "imageUrl": "https://www.congress.gov/img/member/6a29d4f81c6ce0de6fbae1f7_200.jpg"
+    },
+    "district": 1,
+    "name": "Gallagher, James",
+    "partyName": "Republican",
+    "state": "California",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2026
+        }
+      ]
+    },
+    "updateDate": "2026-06-15T20:37:24Z",
+    "url": "https://api.congress.gov/v3/member/G000607?format=json"
+  },
+  {
     "bioguideId": "M001245",
     "depiction": {
       "attribution": "Image courtesy of the Member",
@@ -396,26 +416,5 @@
     },
     "updateDate": "2026-06-15T07:40:30Z",
     "url": "https://api.congress.gov/v3/member/M001232?format=json"
-  },
-  {
-    "bioguideId": "M001231",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/677446860b34857ecc909119_200.jpg"
-    },
-    "district": 22,
-    "name": "Mannion, John W.",
-    "partyName": "Democratic",
-    "state": "New York",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-06-15T07:40:30Z",
-    "url": "https://api.congress.gov/v3/member/M001231?format=json"
   }
 ]
