@@ -1,5 +1,31 @@
 [
   {
+    "bioguideId": "G000359",
+    "depiction": {
+      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
+      "imageUrl": "https://www.congress.gov/img/member/29c09ee2f48f20442f562980da6579ba_200.jpg"
+    },
+    "name": "Graham, Lindsey",
+    "partyName": "Republican",
+    "state": "South Carolina",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 2003,
+          "startYear": 1995
+        },
+        {
+          "chamber": "Senate",
+          "endYear": 2026,
+          "startYear": 2003
+        }
+      ]
+    },
+    "updateDate": "2026-07-13T16:00:28Z",
+    "url": "https://api.congress.gov/v3/member/G000359?format=json"
+  },
+  {
     "bioguideId": "G000607",
     "depiction": {
       "imageUrl": "https://www.congress.gov/img/member/6a29d4f81c6ce0de6fbae1f7_200.jpg"
@@ -396,26 +422,5 @@
     },
     "updateDate": "2026-07-13T07:40:26Z",
     "url": "https://api.congress.gov/v3/member/M001236?format=json"
-  },
-  {
-    "bioguideId": "M001235",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/677449fd0b34857ecc909131_200.jpg"
-    },
-    "district": 2,
-    "name": "Moore, Riley M.",
-    "partyName": "Republican",
-    "state": "West Virginia",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-07-13T07:40:26Z",
-    "url": "https://api.congress.gov/v3/member/M001235?format=json"
   }
 ]
