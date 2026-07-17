@@ -1,5 +1,21 @@
 [
   {
+    "bioguideId": "G000608",
+    "name": "Graham, Darline",
+    "partyName": "Republican",
+    "state": "South Carolina",
+    "terms": {
+      "item": [
+        {
+          "chamber": "Senate",
+          "startYear": 2026
+        }
+      ]
+    },
+    "updateDate": "2026-07-16T17:46:35Z",
+    "url": "https://api.congress.gov/v3/member/G000608?format=json"
+  },
+  {
     "bioguideId": "G000607",
     "depiction": {
       "imageUrl": "https://www.congress.gov/img/member/6a29d4f81c6ce0de6fbae1f7_200.jpg"
@@ -395,26 +411,5 @@
     },
     "updateDate": "2026-07-16T07:40:30Z",
     "url": "https://api.congress.gov/v3/member/H001103?format=json"
-  },
-  {
-    "bioguideId": "G000604",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/678ff62d66bf616cf1a7ce13_200.jpg"
-    },
-    "district": 2,
-    "name": "Goodlander, Maggie",
-    "partyName": "Democratic",
-    "state": "New Hampshire",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-07-16T07:40:30Z",
-    "url": "https://api.congress.gov/v3/member/G000604?format=json"
   }
 ]
