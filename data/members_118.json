@@ -1,6 +1,9 @@
 [
   {
     "bioguideId": "W000832",
+    "depiction": {
+      "imageUrl": "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/6a986b632a68122e10181e6b.jpg"
+    },
     "district": 14,
     "name": "Wahab, Aisha",
     "partyName": "Democratic",
@@ -13,7 +16,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/W000832?format=json"
   },
   {
@@ -34,7 +37,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/B001328?format=json"
   },
   {
@@ -54,7 +57,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/G000607?format=json"
   },
   {
@@ -75,7 +78,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/M001246?format=json"
   },
   {
@@ -96,7 +99,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/F000485?format=json"
   },
   {
@@ -117,7 +120,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/M001245?format=json"
   },
   {
@@ -138,7 +141,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/V000139?format=json"
   },
   {
@@ -159,7 +162,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/P000622?format=json"
   },
   {
@@ -180,7 +183,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/F000484?format=json"
   },
   {
@@ -201,8 +204,29 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/V000138?format=json"
+  },
+  {
+    "bioguideId": "T000490",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/677460190b34857ecc9091a3_200.jpg"
+    },
+    "district": 2,
+    "name": "Taylor, David J.",
+    "partyName": "Republican",
+    "state": "Ohio",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-09-10T07:40:35Z",
+    "url": "https://api.congress.gov/v3/member/T000490?format=json"
   },
   {
     "bioguideId": "S001230",
@@ -222,7 +246,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/S001230?format=json"
   },
   {
@@ -243,7 +267,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/M001239?format=json"
   },
   {
@@ -264,7 +288,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/M001230?format=json"
   },
   {
@@ -285,7 +309,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/K000403?format=json"
   },
   {
@@ -306,7 +330,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/J000310?format=json"
   },
   {
@@ -326,7 +350,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/H001103?format=json"
   },
   {
@@ -347,7 +371,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/G000603?format=json"
   },
   {
@@ -367,40 +391,19 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
+    "updateDate": "2026-09-10T07:40:35Z",
     "url": "https://api.congress.gov/v3/member/G000601?format=json"
   },
   {
-    "bioguideId": "B001327",
+    "bioguideId": "D000635",
     "depiction": {
       "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/6774236f0b34857ecc90905f_200.jpg"
-    },
-    "district": 8,
-    "name": "Bresnahan, Robert P.",
-    "partyName": "Republican",
-    "state": "Pennsylvania",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-09-09T07:40:33Z",
-    "url": "https://api.congress.gov/v3/member/B001327?format=json"
-  },
-  {
-    "bioguideId": "B001325",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/677422990b34857ecc909052_200.jpg"
+      "imageUrl": "https://www.congress.gov/img/member/677425260b34857ecc90907d_200.jpg"
     },
     "district": 3,
-    "name": "Biggs, Sheri",
-    "partyName": "Republican",
-    "state": "South Carolina",
+    "name": "Dexter, Maxine",
+    "partyName": "Democratic",
+    "state": "Oregon",
     "terms": {
       "item": [
         {
@@ -409,7 +412,7 @@
         }
       ]
     },
-    "updateDate": "2026-09-09T07:40:33Z",
-    "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    "updateDate": "2026-09-10T07:40:35Z",
+    "url": "https://api.congress.gov/v3/member/D000635?format=json"
   }
 ]
