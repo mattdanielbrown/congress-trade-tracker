@@ -17,7 +17,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/W000832?format=json"
   },
   {
@@ -38,7 +38,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/B001328?format=json"
   },
   {
@@ -58,7 +58,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/G000607?format=json"
   },
   {
@@ -79,7 +79,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/M001246?format=json"
   },
   {
@@ -100,7 +100,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/F000485?format=json"
   },
   {
@@ -121,7 +121,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/M001245?format=json"
   },
   {
@@ -142,7 +142,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/V000139?format=json"
   },
   {
@@ -163,7 +163,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/P000622?format=json"
   },
   {
@@ -184,7 +184,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/F000484?format=json"
   },
   {
@@ -205,8 +205,29 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/V000138?format=json"
+  },
+  {
+    "bioguideId": "T000490",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/677460190b34857ecc9091a3_200.jpg"
+    },
+    "district": 2,
+    "name": "Taylor, David J.",
+    "partyName": "Republican",
+    "state": "Ohio",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-10-04T07:40:29Z",
+    "url": "https://api.congress.gov/v3/member/T000490?format=json"
   },
   {
     "bioguideId": "S001230",
@@ -226,8 +247,71 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/S001230?format=json"
+  },
+  {
+    "bioguideId": "R000622",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/67745e360b34857ecc909179_200.jpg"
+    },
+    "district": 19,
+    "name": "Riley, Josh",
+    "partyName": "Democratic",
+    "state": "New York",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-10-04T07:40:29Z",
+    "url": "https://api.congress.gov/v3/member/R000622?format=json"
+  },
+  {
+    "bioguideId": "P000621",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/67745d3b0b34857ecc909167_200.jpg"
+    },
+    "district": 9,
+    "name": "Pou, Nellie",
+    "partyName": "Democratic",
+    "state": "New Jersey",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-10-04T07:40:29Z",
+    "url": "https://api.congress.gov/v3/member/P000621?format=json"
+  },
+  {
+    "bioguideId": "M001240",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/67744e930b34857ecc90914f_200.jpg"
+    },
+    "district": 6,
+    "name": "McDowell, Addison P.",
+    "partyName": "Republican",
+    "state": "North Carolina",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-10-04T07:40:29Z",
+    "url": "https://api.congress.gov/v3/member/M001240?format=json"
   },
   {
     "bioguideId": "M001239",
@@ -247,8 +331,50 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/M001239?format=json"
+  },
+  {
+    "bioguideId": "M001236",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/67744a540b34857ecc909137_200.jpg"
+    },
+    "district": 14,
+    "name": "Moore, Tim",
+    "partyName": "Republican",
+    "state": "North Carolina",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-10-04T07:40:29Z",
+    "url": "https://api.congress.gov/v3/member/M001236?format=json"
+  },
+  {
+    "bioguideId": "M001231",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/677446860b34857ecc909119_200.jpg"
+    },
+    "district": 22,
+    "name": "Mannion, John W.",
+    "partyName": "Democratic",
+    "state": "New York",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-10-04T07:40:29Z",
+    "url": "https://api.congress.gov/v3/member/M001231?format=json"
   },
   {
     "bioguideId": "M001230",
@@ -268,40 +394,19 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
+    "updateDate": "2026-10-04T07:40:29Z",
     "url": "https://api.congress.gov/v3/member/M001230?format=json"
   },
   {
-    "bioguideId": "K000403",
+    "bioguideId": "L000606",
     "depiction": {
       "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/67742e7c0b34857ecc9090f5_200.jpg"
+      "imageUrl": "https://www.congress.gov/img/member/6774301b0b34857ecc909107_200.jpg"
     },
-    "district": 3,
-    "name": "Kennedy, Mike",
-    "partyName": "Republican",
-    "state": "Utah",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-10-03T07:40:29Z",
-    "url": "https://api.congress.gov/v3/member/K000403?format=json"
-  },
-  {
-    "bioguideId": "J000310",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/67742df60b34857ecc9090e9_200.jpg"
-    },
-    "district": 32,
-    "name": "Johnson, Julie",
+    "district": 16,
+    "name": "Latimer, George",
     "partyName": "Democratic",
-    "state": "Texas",
+    "state": "New York",
     "terms": {
       "item": [
         {
@@ -310,110 +415,7 @@
         }
       ]
     },
-    "updateDate": "2026-10-03T07:40:29Z",
-    "url": "https://api.congress.gov/v3/member/J000310?format=json"
-  },
-  {
-    "bioguideId": "H001103",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/67742d980b34857ecc9090e3_200.jpg"
-    },
-    "name": "Hernández, Pablo Jose",
-    "partyName": "Democratic",
-    "state": "Puerto Rico",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-10-03T07:40:29Z",
-    "url": "https://api.congress.gov/v3/member/H001103?format=json"
-  },
-  {
-    "bioguideId": "G000603",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/677428ac0b34857ecc9090b3_200.jpg"
-    },
-    "district": 26,
-    "name": "Gill, Brandon",
-    "partyName": "Republican",
-    "state": "Texas",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-10-03T07:40:29Z",
-    "url": "https://api.congress.gov/v3/member/G000603?format=json"
-  },
-  {
-    "bioguideId": "G000601",
-    "depiction": {
-      "imageUrl": "https://www.congress.gov/img/member/6774277d0b34857ecc9090a7_200.jpg"
-    },
-    "district": 12,
-    "name": "Goldman, Craig A.",
-    "partyName": "Republican",
-    "state": "Texas",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-10-03T07:40:29Z",
-    "url": "https://api.congress.gov/v3/member/G000601?format=json"
-  },
-  {
-    "bioguideId": "B001327",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/6774236f0b34857ecc90905f_200.jpg"
-    },
-    "district": 8,
-    "name": "Bresnahan, Robert P.",
-    "partyName": "Republican",
-    "state": "Pennsylvania",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-10-03T07:40:29Z",
-    "url": "https://api.congress.gov/v3/member/B001327?format=json"
-  },
-  {
-    "bioguideId": "B001325",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/677422990b34857ecc909052_200.jpg"
-    },
-    "district": 3,
-    "name": "Biggs, Sheri",
-    "partyName": "Republican",
-    "state": "South Carolina",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-10-03T07:40:29Z",
-    "url": "https://api.congress.gov/v3/member/B001325?format=json"
+    "updateDate": "2026-10-04T07:40:29Z",
+    "url": "https://api.congress.gov/v3/member/L000606?format=json"
   }
 ]
