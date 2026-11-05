@@ -1,436 +1,422 @@
 [
   {
-    "bioguideId": "W000817",
+    "bioguideId": "D000231",
     "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/w000817_200.jpg"
+      "attribution": "Collection of the U.S. House of Representatives",
+      "imageUrl": "https://www.congress.gov/img/member/7510c5ab6627fe84806ff63e7cd71f9b_200.jpg"
     },
-    "name": "Warren, Elizabeth",
-    "partyName": "Democratic",
-    "state": "Massachusetts",
-    "terms": {
-      "item": [
-        {
-          "chamber": "Senate",
-          "startYear": 2013
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:20Z",
-    "url": "https://api.congress.gov/v3/member/W000817?format=json"
-  },
-  {
-    "bioguideId": "W000802",
-    "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/w000802_200.jpg"
-    },
-    "name": "Whitehouse, Sheldon",
-    "partyName": "Democratic",
-    "state": "Rhode Island",
-    "terms": {
-      "item": [
-        {
-          "chamber": "Senate",
-          "startYear": 2007
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:20Z",
-    "url": "https://api.congress.gov/v3/member/W000802?format=json"
-  },
-  {
-    "bioguideId": "Y000064",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/y000064_200.jpg"
-    },
-    "name": "Young, Todd",
+    "district": 3,
+    "name": "DeNardis, Lawrence J.",
     "partyName": "Republican",
-    "state": "Indiana",
+    "state": "Connecticut",
     "terms": {
       "item": [
         {
           "chamber": "House of Representatives",
-          "endYear": 2017,
-          "startYear": 2011
-        },
-        {
-          "chamber": "Senate",
-          "startYear": 2017
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:20Z",
-    "url": "https://api.congress.gov/v3/member/Y000064?format=json"
-  },
-  {
-    "bioguideId": "W000800",
-    "depiction": {
-      "attribution": "Official U.S. Senate Photo",
-      "imageUrl": "https://www.congress.gov/img/member/fd3cb364b8bf93c25834cff750637802_200.jpg"
-    },
-    "name": "Welch, Peter",
-    "partyName": "Democratic",
-    "state": "Vermont",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "endYear": 2023,
-          "startYear": 2007
-        },
-        {
-          "chamber": "Senate",
-          "startYear": 2023
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:20Z",
-    "url": "https://api.congress.gov/v3/member/W000800?format=json"
-  },
-  {
-    "bioguideId": "W000779",
-    "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/w000779_200.jpg"
-    },
-    "name": "Wyden, Ron",
-    "partyName": "Democratic",
-    "state": "Oregon",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "endYear": 1996,
+          "endYear": 1983,
           "startYear": 1981
-        },
-        {
-          "chamber": "Senate",
-          "startYear": 1996
         }
       ]
     },
-    "updateDate": "2026-11-01T11:31:20Z",
-    "url": "https://api.congress.gov/v3/member/W000779?format=json"
+    "updateDate": "2026-11-05T12:01:08Z",
+    "url": "https://api.congress.gov/v3/member/D000231?format=json"
   },
   {
-    "bioguideId": "W000437",
+    "bioguideId": "M001245",
     "depiction": {
       "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/f49ac425119375e9fe6a075762734079_200.jpg"
+      "imageUrl": "https://www.congress.gov/img/member/698206b2eb30d3271899373e_200.jpg"
     },
-    "name": "Wicker, Roger F.",
-    "partyName": "Republican",
-    "state": "Mississippi",
+    "district": 18,
+    "name": "Menefee, Christian D.",
+    "partyName": "Democratic",
+    "state": "Texas",
     "terms": {
       "item": [
         {
           "chamber": "House of Representatives",
-          "endYear": 2007,
-          "startYear": 1995
-        },
-        {
-          "chamber": "Senate",
-          "startYear": 2007
+          "startYear": 2026
         }
       ]
     },
-    "updateDate": "2026-11-01T11:31:20Z",
-    "url": "https://api.congress.gov/v3/member/W000437?format=json"
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/M001245?format=json"
   },
   {
-    "bioguideId": "W000790",
+    "bioguideId": "W000831",
     "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/w000790_200.jpg"
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/68c1bd4ca929c5b98220e069_200.jpg"
     },
-    "name": "Warnock, Raphael G.",
-    "partyName": "Democratic",
-    "state": "Georgia",
-    "terms": {
-      "item": [
-        {
-          "chamber": "Senate",
-          "startYear": 2021
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:19Z",
-    "url": "https://api.congress.gov/v3/member/W000790?format=json"
-  },
-  {
-    "bioguideId": "T000278",
-    "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/t000278_200.jpg"
-    },
-    "name": "Tuberville, Tommy",
-    "partyName": "Republican",
-    "state": "Alabama",
-    "terms": {
-      "item": [
-        {
-          "chamber": "Senate",
-          "startYear": 2021
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:19Z",
-    "url": "https://api.congress.gov/v3/member/T000278?format=json"
-  },
-  {
-    "bioguideId": "T000476",
-    "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/t000476_200.jpg"
-    },
-    "name": "Tillis, Thomas",
-    "partyName": "Republican",
-    "state": "North Carolina",
-    "terms": {
-      "item": [
-        {
-          "chamber": "Senate",
-          "startYear": 2015
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:19Z",
-    "url": "https://api.congress.gov/v3/member/T000476?format=json"
-  },
-  {
-    "bioguideId": "W000805",
-    "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/w000805_200.jpg"
-    },
-    "name": "Warner, Mark R.",
+    "district": 11,
+    "name": "Walkinshaw, James R.",
     "partyName": "Democratic",
     "state": "Virginia",
     "terms": {
       "item": [
         {
-          "chamber": "Senate",
-          "startYear": 2009
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:19Z",
-    "url": "https://api.congress.gov/v3/member/W000805?format=json"
-  },
-  {
-    "bioguideId": "T000250",
-    "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/t000250_200.jpg"
-    },
-    "name": "Thune, John",
-    "partyName": "Republican",
-    "state": "South Dakota",
-    "terms": {
-      "item": [
-        {
           "chamber": "House of Representatives",
-          "endYear": 2003,
-          "startYear": 1997
-        },
-        {
-          "chamber": "Senate",
-          "startYear": 2005
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:19Z",
-    "url": "https://api.congress.gov/v3/member/T000250?format=json"
-  },
-  {
-    "bioguideId": "V000128",
-    "depiction": {
-      "attribution": "Courtesy U.S. Senate Historical Office",
-      "imageUrl": "https://www.congress.gov/img/member/bfd06b6d2baa5394bd0cf5ca0176014e_200.jpg"
-    },
-    "name": "Van Hollen, Chris",
-    "partyName": "Democratic",
-    "state": "Maryland",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "endYear": 2017,
-          "startYear": 2003
-        },
-        {
-          "chamber": "Senate",
-          "startYear": 2017
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:19Z",
-    "url": "https://api.congress.gov/v3/member/V000128?format=json"
-  },
-  {
-    "bioguideId": "S001232",
-    "depiction": {
-      "attribution": "Official U.S. Senate Photo",
-      "imageUrl": "https://www.congress.gov/img/member/677d8231fdb6cf36bbb6498b_200.jpg"
-    },
-    "name": "Sheehy, Tim",
-    "partyName": "Republican",
-    "state": "Montana",
-    "terms": {
-      "item": [
-        {
-          "chamber": "Senate",
           "startYear": 2025
         }
       ]
     },
-    "updateDate": "2026-11-01T11:31:18Z",
-    "url": "https://api.congress.gov/v3/member/S001232?format=json"
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/W000831?format=json"
   },
   {
-    "bioguideId": "S001217",
-    "depiction": {
-      "imageUrl": "https://www.congress.gov/img/member/s001217_200.jpg"
-    },
-    "name": "Scott, Rick",
-    "partyName": "Republican",
-    "state": "Florida",
-    "terms": {
-      "item": [
-        {
-          "chamber": "Senate",
-          "startYear": 2019
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:18Z",
-    "url": "https://api.congress.gov/v3/member/S001217?format=json"
-  },
-  {
-    "bioguideId": "S001208",
+    "bioguideId": "V000138",
     "depiction": {
       "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/s001208_200.jpg"
+      "imageUrl": "https://www.congress.gov/img/member/6774617a0b34857ecc9091b5_200.jpg"
     },
-    "name": "Slotkin, Elissa",
+    "district": 7,
+    "name": "Vindman, Eugene Simon",
     "partyName": "Democratic",
-    "state": "Michigan",
+    "state": "Virginia",
     "terms": {
       "item": [
         {
           "chamber": "House of Representatives",
-          "endYear": 2025,
-          "startYear": 2019
-        },
-        {
-          "chamber": "Senate",
           "startYear": 2025
         }
       ]
     },
-    "updateDate": "2026-11-01T11:31:18Z",
-    "url": "https://api.congress.gov/v3/member/S001208?format=json"
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/V000138?format=json"
   },
   {
-    "bioguideId": "S001203",
+    "bioguideId": "S001230",
     "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/s001203_200.jpg"
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/6797be8bc75fbc6f720e476a_200.jpg"
     },
-    "name": "Smith, Tina",
+    "district": 10,
+    "name": "Subramanyam, Suhas",
     "partyName": "Democratic",
-    "state": "Minnesota",
+    "state": "Virginia",
     "terms": {
       "item": [
         {
-          "chamber": "Senate",
-          "startYear": 2018
+          "chamber": "House of Representatives",
+          "startYear": 2025
         }
       ]
     },
-    "updateDate": "2026-11-01T11:31:18Z",
-    "url": "https://api.congress.gov/v3/member/S001203?format=json"
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/S001230?format=json"
   },
   {
-    "bioguideId": "S001198",
+    "bioguideId": "R000621",
     "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/s001198_200.jpg"
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/67745dcf0b34857ecc909173_200.jpg"
     },
-    "name": "Sullivan, Dan",
-    "partyName": "Republican",
-    "state": "Alaska",
-    "terms": {
-      "item": [
-        {
-          "chamber": "Senate",
-          "startYear": 2015
-        }
-      ]
-    },
-    "updateDate": "2026-11-01T11:31:18Z",
-    "url": "https://api.congress.gov/v3/member/S001198?format=json"
-  },
-  {
-    "bioguideId": "S001181",
-    "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/s001181_200.jpg"
-    },
-    "name": "Shaheen, Jeanne",
+    "district": 6,
+    "name": "Randall, Emily",
     "partyName": "Democratic",
-    "state": "New Hampshire",
+    "state": "Washington",
     "terms": {
       "item": [
         {
-          "chamber": "Senate",
-          "startYear": 2009
+          "chamber": "House of Representatives",
+          "startYear": 2025
         }
       ]
     },
-    "updateDate": "2026-11-01T11:31:18Z",
-    "url": "https://api.congress.gov/v3/member/S001181?format=json"
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/R000621?format=json"
   },
   {
-    "bioguideId": "S001227",
+    "bioguideId": "M001239",
     "depiction": {
-      "attribution": "Official U.S. Senate Photo",
-      "imageUrl": "https://www.congress.gov/img/member/b66a0806e77f63e862391b15a0b1f753_200.jpg"
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/67744ba20b34857ecc909149_200.jpg"
     },
-    "name": "Schmitt, Eric",
+    "district": 5,
+    "name": "McGuire, John J.",
     "partyName": "Republican",
-    "state": "Missouri",
+    "state": "Virginia",
     "terms": {
       "item": [
         {
-          "chamber": "Senate",
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/M001239?format=json"
+  },
+  {
+    "bioguideId": "M001235",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/677449fd0b34857ecc909131_200.jpg"
+    },
+    "district": 2,
+    "name": "Moore, Riley M.",
+    "partyName": "Republican",
+    "state": "West Virginia",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/M001235?format=json"
+  },
+  {
+    "bioguideId": "K000403",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/67742e7c0b34857ecc9090f5_200.jpg"
+    },
+    "district": 3,
+    "name": "Kennedy, Mike",
+    "partyName": "Republican",
+    "state": "Utah",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/K000403?format=json"
+  },
+  {
+    "bioguideId": "J000310",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/67742df60b34857ecc9090e9_200.jpg"
+    },
+    "district": 32,
+    "name": "Johnson, Julie",
+    "partyName": "Democratic",
+    "state": "Texas",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/J000310?format=json"
+  },
+  {
+    "bioguideId": "G000603",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/677428ac0b34857ecc9090b3_200.jpg"
+    },
+    "district": 26,
+    "name": "Gill, Brandon",
+    "partyName": "Republican",
+    "state": "Texas",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/G000603?format=json"
+  },
+  {
+    "bioguideId": "B001322",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/6774212e0b34857ecc90903a_200.jpg"
+    },
+    "district": 5,
+    "name": "Baumgartner, Michael",
+    "partyName": "Republican",
+    "state": "Washington",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2025
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/B001322?format=json"
+  },
+  {
+    "bioguideId": "W000829",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/6734b6724c72e343a6aff9e6_200.jpg"
+    },
+    "district": 8,
+    "name": "Wied, Tony",
+    "partyName": "Republican",
+    "state": "Wisconsin",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2024
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/W000829?format=json"
+  },
+  {
+    "bioguideId": "M001228",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/m001228_200.jpg"
+    },
+    "district": 2,
+    "name": "Maloy, Celeste",
+    "partyName": "Republican",
+    "state": "Utah",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
           "startYear": 2023
         }
       ]
     },
-    "updateDate": "2026-11-01T11:31:17Z",
-    "url": "https://api.congress.gov/v3/member/S001227?format=json"
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/M001228?format=json"
   },
   {
-    "bioguideId": "R000605",
+    "bioguideId": "M001227",
     "depiction": {
-      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
-      "imageUrl": "https://www.congress.gov/img/member/r000605_200.jpg"
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/m001227_200.jpg"
     },
-    "name": "Rounds, Mike",
-    "partyName": "Republican",
-    "state": "South Dakota",
+    "district": 4,
+    "name": "McClellan, Jennifer L.",
+    "partyName": "Democratic",
+    "state": "Virginia",
     "terms": {
       "item": [
         {
-          "chamber": "Senate",
-          "startYear": 2015
+          "chamber": "House of Representatives",
+          "startYear": 2023
         }
       ]
     },
-    "updateDate": "2026-11-01T11:31:17Z",
-    "url": "https://api.congress.gov/v3/member/R000605?format=json"
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/M001227?format=json"
+  },
+  {
+    "bioguideId": "V000135",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/v000135_200.jpg"
+    },
+    "district": 3,
+    "name": "Van Orden, Derrick",
+    "partyName": "Republican",
+    "state": "Wisconsin",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2023
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/V000135?format=json"
+  },
+  {
+    "bioguideId": "G000600",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/g000600_200.jpg"
+    },
+    "district": 3,
+    "name": "Perez, Marie Gluesenkamp",
+    "partyName": "Democratic",
+    "state": "Washington",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2023
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/G000600?format=json"
+  },
+  {
+    "bioguideId": "K000399",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/66b0ce45b0288a917d98f619_200.jpg"
+    },
+    "district": 2,
+    "name": "Kiggans, Jennifer A.",
+    "partyName": "Republican",
+    "state": "Virginia",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2023
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/K000399?format=json"
+  },
+  {
+    "bioguideId": "H001095",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/h001095_200.jpg"
+    },
+    "district": 38,
+    "name": "Hunt, Wesley",
+    "partyName": "Republican",
+    "state": "Texas",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2023
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/H001095?format=json"
+  },
+  {
+    "bioguideId": "H001096",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/h001096_200.jpg"
+    },
+    "name": "Hageman, Harriet M.",
+    "partyName": "Republican",
+    "state": "Wyoming",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2023
+        }
+      ]
+    },
+    "updateDate": "2026-11-05T08:36:10Z",
+    "url": "https://api.congress.gov/v3/member/H001096?format=json"
   }
 ]
