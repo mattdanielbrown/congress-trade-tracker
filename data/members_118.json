@@ -1,5 +1,79 @@
 [
   {
+    "bioguideId": "A000376",
+    "depiction": {
+      "attribution": "Collection of the U.S. House of Representatives",
+      "imageUrl": "https://www.congress.gov/img/member/3ce5258abb0c5f8fa86658a91f3eb0a5_200.jpg"
+    },
+    "district": 32,
+    "name": "Allred, Colin Z.",
+    "partyName": "Democratic",
+    "state": "Texas",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 2025,
+          "startYear": 2019
+        }
+      ]
+    },
+    "updateDate": "2026-11-06T17:01:24Z",
+    "url": "https://api.congress.gov/v3/member/A000376?format=json"
+  },
+  {
+    "bioguideId": "R000361",
+    "depiction": {
+      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
+      "imageUrl": "https://www.congress.gov/img/member/88b843b9acd4e82479d8ae0f18aef4b3_200.jpg"
+    },
+    "name": "Rockefeller, John D., IV",
+    "partyName": "Democratic",
+    "state": "West Virginia",
+    "terms": {
+      "item": [
+        {
+          "chamber": "Senate",
+          "endYear": 2015,
+          "startYear": 1985
+        }
+      ]
+    },
+    "updateDate": "2026-11-06T17:01:24Z",
+    "url": "https://api.congress.gov/v3/member/R000361?format=json"
+  },
+  {
+    "bioguideId": "K000352",
+    "depiction": {
+      "attribution": "<a href=\"http://www.senate.gov/artandhistory/history/common/generic/Photo_Collection_of_the_Senate_Historical_Office.htm\">Courtesy U.S. Senate Historical Office</a>",
+      "imageUrl": "https://www.congress.gov/img/member/6cda30a06d7fe02d75b408e72899cb12_200.jpg"
+    },
+    "name": "Kyl, Jon",
+    "partyName": "Republican",
+    "state": "Arizona",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 1995,
+          "startYear": 1987
+        },
+        {
+          "chamber": "Senate",
+          "endYear": 2013,
+          "startYear": 1995
+        },
+        {
+          "chamber": "Senate",
+          "endYear": 2019,
+          "startYear": 2018
+        }
+      ]
+    },
+    "updateDate": "2026-11-06T17:01:24Z",
+    "url": "https://api.congress.gov/v3/member/K000352?format=json"
+  },
+  {
     "bioguideId": "F000476",
     "depiction": {
       "attribution": "Image courtesy of the Member",
@@ -369,68 +443,5 @@
     },
     "updateDate": "2026-11-05T08:36:10Z",
     "url": "https://api.congress.gov/v3/member/M001239?format=json"
-  },
-  {
-    "bioguideId": "M001235",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/677449fd0b34857ecc909131_200.jpg"
-    },
-    "district": 2,
-    "name": "Moore, Riley M.",
-    "partyName": "Republican",
-    "state": "West Virginia",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-11-05T08:36:10Z",
-    "url": "https://api.congress.gov/v3/member/M001235?format=json"
-  },
-  {
-    "bioguideId": "K000403",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/67742e7c0b34857ecc9090f5_200.jpg"
-    },
-    "district": 3,
-    "name": "Kennedy, Mike",
-    "partyName": "Republican",
-    "state": "Utah",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-11-05T08:36:10Z",
-    "url": "https://api.congress.gov/v3/member/K000403?format=json"
-  },
-  {
-    "bioguideId": "J000310",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/67742df60b34857ecc9090e9_200.jpg"
-    },
-    "district": 32,
-    "name": "Johnson, Julie",
-    "partyName": "Democratic",
-    "state": "Texas",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-11-05T08:36:10Z",
-    "url": "https://api.congress.gov/v3/member/J000310?format=json"
   }
 ]
