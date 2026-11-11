@@ -1,5 +1,27 @@
 [
   {
+    "bioguideId": "Z000016",
+    "depiction": {
+      "attribution": "Collection of the U.S. House of Representatives",
+      "imageUrl": "https://www.congress.gov/img/member/d792bafbddfb0e412d1317bd5e70d5f0_200.jpg"
+    },
+    "district": 6,
+    "name": "Zwach, John M.",
+    "partyName": "Republican",
+    "state": "Minnesota",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 1975,
+          "startYear": 1967
+        }
+      ]
+    },
+    "updateDate": "2026-11-10T21:00:35Z",
+    "url": "https://api.congress.gov/v3/member/Z000016?format=json"
+  },
+  {
     "bioguideId": "W000406",
     "depiction": {
       "attribution": "Collection of the U.S. House of Representatives",
@@ -18,7 +40,7 @@
         }
       ]
     },
-    "updateDate": "2026-11-10T12:00:31Z",
+    "updateDate": "2026-11-10T21:00:35Z",
     "url": "https://api.congress.gov/v3/member/W000406?format=json"
   },
   {
@@ -423,26 +445,5 @@
     },
     "updateDate": "2026-11-05T08:36:10Z",
     "url": "https://api.congress.gov/v3/member/S001230?format=json"
-  },
-  {
-    "bioguideId": "R000621",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/67745dcf0b34857ecc909173_200.jpg"
-    },
-    "district": 6,
-    "name": "Randall, Emily",
-    "partyName": "Democratic",
-    "state": "Washington",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-11-05T08:36:10Z",
-    "url": "https://api.congress.gov/v3/member/R000621?format=json"
   }
 ]
