@@ -1,5 +1,48 @@
 [
   {
+    "bioguideId": "M000999",
+    "depiction": {
+      "attribution": "Collection of the U.S. House of Representatives",
+      "imageUrl": "https://www.congress.gov/img/member/253cd01759f30631bd6e30504c3cbcbd_200.jpg"
+    },
+    "district": 4,
+    "name": "Morrison, Sid",
+    "partyName": "Republican",
+    "state": "Washington",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 1993,
+          "startYear": 1981
+        }
+      ]
+    },
+    "updateDate": "2026-11-12T12:00:39Z",
+    "url": "https://api.congress.gov/v3/member/M000999?format=json"
+  },
+  {
+    "bioguideId": "S001223",
+    "depiction": {
+      "attribution": "Image courtesy of the Member",
+      "imageUrl": "https://www.congress.gov/img/member/43152de484af12075474f7bb5fa418a8_200.jpg"
+    },
+    "district": 13,
+    "name": "Sykes, Emilia Strong",
+    "partyName": "Democratic",
+    "state": "Ohio",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "startYear": 2023
+        }
+      ]
+    },
+    "updateDate": "2026-11-11T21:00:38Z",
+    "url": "https://api.congress.gov/v3/member/S001223?format=json"
+  },
+  {
     "bioguideId": "Z000016",
     "depiction": {
       "attribution": "Collection of the U.S. House of Representatives",
@@ -403,47 +446,5 @@
     },
     "updateDate": "2026-11-05T08:36:10Z",
     "url": "https://api.congress.gov/v3/member/W000831?format=json"
-  },
-  {
-    "bioguideId": "V000138",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/6774617a0b34857ecc9091b5_200.jpg"
-    },
-    "district": 7,
-    "name": "Vindman, Eugene Simon",
-    "partyName": "Democratic",
-    "state": "Virginia",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-11-05T08:36:10Z",
-    "url": "https://api.congress.gov/v3/member/V000138?format=json"
-  },
-  {
-    "bioguideId": "S001230",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/6797be8bc75fbc6f720e476a_200.jpg"
-    },
-    "district": 10,
-    "name": "Subramanyam, Suhas",
-    "partyName": "Democratic",
-    "state": "Virginia",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-11-05T08:36:10Z",
-    "url": "https://api.congress.gov/v3/member/S001230?format=json"
   }
 ]
