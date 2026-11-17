@@ -1,5 +1,71 @@
 [
   {
+    "bioguideId": "H000712",
+    "depiction": {
+      "attribution": "Collection of the U.S. House of Representatives",
+      "imageUrl": "https://www.congress.gov/img/member/0ef785848bf4b0fa49a30b0b0df48b17_200.jpg"
+    },
+    "district": 17,
+    "name": "Holden, Tim",
+    "partyName": "Democratic",
+    "state": "Pennsylvania",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 2013,
+          "startYear": 1993
+        }
+      ]
+    },
+    "updateDate": "2026-11-16T21:00:40Z",
+    "url": "https://api.congress.gov/v3/member/H000712?format=json"
+  },
+  {
+    "bioguideId": "M001203",
+    "depiction": {
+      "attribution": "Collection of the U.S. House of Representatives",
+      "imageUrl": "https://www.congress.gov/img/member/f3ed90d64032d6bf47a7bb3ef0611b6c_200.jpg"
+    },
+    "district": 7,
+    "name": "Malinowski, Tom",
+    "partyName": "Democratic",
+    "state": "New Jersey",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 2023,
+          "startYear": 2019
+        }
+      ]
+    },
+    "updateDate": "2026-11-16T17:00:37Z",
+    "url": "https://api.congress.gov/v3/member/M001203?format=json"
+  },
+  {
+    "bioguideId": "M000404",
+    "depiction": {
+      "attribution": "Collection of the U.S. House of Representatives",
+      "imageUrl": "https://www.congress.gov/img/member/759a20dd33adbea0142699094a8a75c5_200.jpg"
+    },
+    "district": 7,
+    "name": "McDermott, Jim",
+    "partyName": "Democratic",
+    "state": "Washington",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 2017,
+          "startYear": 1989
+        }
+      ]
+    },
+    "updateDate": "2026-11-16T17:00:37Z",
+    "url": "https://api.congress.gov/v3/member/M000404?format=json"
+  },
+  {
     "bioguideId": "M000999",
     "depiction": {
       "attribution": "Collection of the U.S. House of Representatives",
@@ -382,69 +448,5 @@
     },
     "updateDate": "2026-11-05T17:01:12Z",
     "url": "https://api.congress.gov/v3/member/E000287?format=json"
-  },
-  {
-    "bioguideId": "D000231",
-    "depiction": {
-      "attribution": "Collection of the U.S. House of Representatives",
-      "imageUrl": "https://www.congress.gov/img/member/7510c5ab6627fe84806ff63e7cd71f9b_200.jpg"
-    },
-    "district": 3,
-    "name": "DeNardis, Lawrence J.",
-    "partyName": "Republican",
-    "state": "Connecticut",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "endYear": 1983,
-          "startYear": 1981
-        }
-      ]
-    },
-    "updateDate": "2026-11-05T12:01:08Z",
-    "url": "https://api.congress.gov/v3/member/D000231?format=json"
-  },
-  {
-    "bioguideId": "M001245",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/698206b2eb30d3271899373e_200.jpg"
-    },
-    "district": 18,
-    "name": "Menefee, Christian D.",
-    "partyName": "Democratic",
-    "state": "Texas",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2026
-        }
-      ]
-    },
-    "updateDate": "2026-11-05T08:36:10Z",
-    "url": "https://api.congress.gov/v3/member/M001245?format=json"
-  },
-  {
-    "bioguideId": "W000831",
-    "depiction": {
-      "attribution": "Image courtesy of the Member",
-      "imageUrl": "https://www.congress.gov/img/member/68c1bd4ca929c5b98220e069_200.jpg"
-    },
-    "district": 11,
-    "name": "Walkinshaw, James R.",
-    "partyName": "Democratic",
-    "state": "Virginia",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "startYear": 2025
-        }
-      ]
-    },
-    "updateDate": "2026-11-05T08:36:10Z",
-    "url": "https://api.congress.gov/v3/member/W000831?format=json"
   }
 ]
