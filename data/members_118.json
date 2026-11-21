@@ -1,5 +1,27 @@
 [
   {
+    "bioguideId": "H000712",
+    "depiction": {
+      "attribution": "Collection of the U.S. House of Representatives",
+      "imageUrl": "https://www.congress.gov/img/member/0ef785848bf4b0fa49a30b0b0df48b17_200.jpg"
+    },
+    "district": 17,
+    "name": "Holden, Tim",
+    "partyName": "Democratic",
+    "state": "Pennsylvania",
+    "terms": {
+      "item": [
+        {
+          "chamber": "House of Representatives",
+          "endYear": 2013,
+          "startYear": 1993
+        }
+      ]
+    },
+    "updateDate": "2026-11-20T21:00:45Z",
+    "url": "https://api.congress.gov/v3/member/H000712?format=json"
+  },
+  {
     "bioguideId": "S001208",
     "depiction": {
       "attribution": "Image courtesy of the Member",
@@ -390,28 +412,6 @@
     },
     "updateDate": "2026-11-19T08:40:39Z",
     "url": "https://api.congress.gov/v3/member/M001212?format=json"
-  },
-  {
-    "bioguideId": "H000712",
-    "depiction": {
-      "attribution": "Collection of the U.S. House of Representatives",
-      "imageUrl": "https://www.congress.gov/img/member/0ef785848bf4b0fa49a30b0b0df48b17_200.jpg"
-    },
-    "district": 17,
-    "name": "Holden, Tim",
-    "partyName": "Democratic",
-    "state": "Pennsylvania",
-    "terms": {
-      "item": [
-        {
-          "chamber": "House of Representatives",
-          "endYear": 2013,
-          "startYear": 1993
-        }
-      ]
-    },
-    "updateDate": "2026-11-16T21:00:40Z",
-    "url": "https://api.congress.gov/v3/member/H000712?format=json"
   },
   {
     "bioguideId": "M001203",
